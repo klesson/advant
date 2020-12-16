@@ -1,0 +1,23 @@
+/* Картинки в карточке */
+.cards {
+	margin: 0px 0 70px 0;
+}
+.cards__row{
+	margin: 0px -15px 70px -15px;
+	display: flex;
+}
+.cards__column {
+	flex: 0 1 33.333%;
+	padding: 0px 15px;
+}
+
+.cards__image {
+	margin: 0px 0px 20px 0px;
+	padding: 0px 0px 58% 0px;
+	overflow: hidden;
+	position: relative;
+}
+
+.cards__image img {
+
+}
